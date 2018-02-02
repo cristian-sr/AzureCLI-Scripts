@@ -1,0 +1,1 @@
+az storage account create  --name Name --resource-group RGname --access-tier Hot --kind BlobStorage --sku Standard_GRS
