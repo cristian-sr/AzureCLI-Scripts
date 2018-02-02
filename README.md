@@ -1,0 +1,2 @@
+# AzureCLI
+Azure CLI Scripts
