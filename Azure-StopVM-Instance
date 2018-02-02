@@ -1,0 +1,1 @@
+az vm stop --resource-group myResourceGroupVM --name myVM
