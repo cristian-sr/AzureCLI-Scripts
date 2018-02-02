@@ -1,0 +1,1 @@
+az vm start --resource-group myResourceGroupVM --name myVM
