@@ -1,0 +1,1 @@
+az group update -n RGName --set tags.owner=TAGOWNERNAME
