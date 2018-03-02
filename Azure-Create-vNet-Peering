@@ -1,0 +1,1 @@
+az network vnet peering create --name "PeeringLinkName" --resource-group "RGName" --vnet-name "vNetName" --remote-vnet-id "Resource ID Name" --allow-vnet-access
